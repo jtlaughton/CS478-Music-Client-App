@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Project5ClientApp</string>
+    <string name="bad_input">Please enter a number between 1-5</string>
+    <string name="bindText">Bind Service</string>
+    <string name="unbindText">Unbind Service</string>
+    <string name="showAllText">Show All Song Info</string>
+    <string name="showOneText">Submit</string>
+    <string name="songPromptText">Enter Song Number Between 1-5</string>
+    <string name="songHint">Enter Song Number</string>
+</resources>
